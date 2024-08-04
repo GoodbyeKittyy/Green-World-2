@@ -4895,3 +4895,4 @@ Quote on |Sun, 04 Aug 2024 04:34:42 GMT| :  Be slow to fall into friendship; but
 Quote on |Sun, 04 Aug 2024 04:43:53 GMT| :  Well done is better than well said. - Benjamin Franklin
 Quote on |Sun, 04 Aug 2024 04:52:49 GMT| :  I have done my best: that is about all the philosophy of living one needs. - Lin Yutang
 Quote on |Sun, 04 Aug 2024 05:07:45 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
+Quote on |Sun, 04 Aug 2024 05:25:38 GMT| :  All our knowledge has its origins in our perceptions. - Leonardo da Vinci
