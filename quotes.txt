@@ -5274,3 +5274,4 @@ Quote on |Wed, 07 Aug 2024 18:47:41 GMT| :  You can always tell a real friend: w
 Quote on |Wed, 07 Aug 2024 18:56:35 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
 Quote on |Wed, 07 Aug 2024 19:12:29 GMT| :  The universe is full of magical things, patiently waiting for our wits to grow sharper. - Eden Phillpotts
 Quote on |Wed, 07 Aug 2024 19:21:48 GMT| :  Difficulties are things that show a person what they are. - Epictetus
+Quote on |Wed, 07 Aug 2024 19:30:53 GMT| :  Technology has to be invented or adopted. - Jared Diamond
